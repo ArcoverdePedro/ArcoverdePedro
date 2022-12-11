@@ -5,8 +5,10 @@ soma = vlr
 somador = 0
 while vlr != 0:
     vlr = int(input("digite um valor ou 0 para parar: "))
+    #substituição do menor valor
     if vlrmenor >= vlr and vlr != 0:
         vlrmenor = vlr
+    #substituição do maior valor
     if vlrmaior <= vlr:
         vlrmaior = vlr
     soma = soma + vlr

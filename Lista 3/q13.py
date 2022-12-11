@@ -4,6 +4,7 @@ aux = 0
 tmph = 0
 tmpm = 0
 tmps = 0
+#calculando a meia vida no laço seguinte
 while pf >= 0.5:
     pf = pf/2
     aux +=1
