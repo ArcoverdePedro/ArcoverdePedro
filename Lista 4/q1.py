@@ -1,5 +1,5 @@
 vogais = 'aáâeéêiíoóôuú'
-var = str(input('informe uma palavra: '))
+var = str(input('digite uma palavra: '))
 var1 = var.upper()
 qnt = 0
 cont = 1
@@ -13,4 +13,4 @@ while cont <= len(var):
         cont2 += 1
         if find != -1:
             qnt+=1
-print(f'A Palavra {var} possui um total de -> {qnt} vogais!')
+print(f'A Palavra {var} possui, {qnt} vogais')
