@@ -1,13 +1,12 @@
-var = str(input('Insira uma palavra: '))
-qnt = len(var)
-cont = 1
-cont1 = 1
-cont2 = qnt-1
-while cont1 <= (qnt*2):
-    if cont <= qnt:
-        print(var[:cont])
-        cont+=1
-    elif cont > qnt:
-        print(var[:cont2])
-        cont2-=1
-    cont1+=1
+palavra = input("digite uma palavra: ")
+aux = 1
+aux1 = 1
+aux2 = len(palavra)-1
+while aux1 <= (len(palavra)*2):
+    if aux <= len(palavra):
+        print(palavra[:aux])
+        aux+=1
+    elif aux > len(palavra):
+        print(palavra[:aux2])
+        aux2-=1
+    aux1+=1
