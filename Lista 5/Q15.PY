@@ -1,5 +1,5 @@
 bin = input('informe um binário: ')
-var1 = bin[::-1]
+var1 = bin[::-1] 
 dec = 0
 for cont in range(len(var1)):
     if var1[cont] == '1':

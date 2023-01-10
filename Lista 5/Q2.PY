@@ -7,7 +7,7 @@ p_a=num
 soma=0
 cont=1
 np=0
-for x in range(cont,qnt+1):
+for x in range(cont,qnt+1): 
      print(p_a, end=' , ')
      soma = p_a + soma
      p_a+=raz

@@ -6,7 +6,7 @@ aux1 = 0
 aux2 = 1
 for x in range(len(var1)):
         caracter = var1[aux1:aux2]
-        find = vogais.find(caracter)
+        find = vogais.find(caracter) 
         aux1 += 1
         aux2 += 1
         if find != -1:

@@ -5,4 +5,4 @@ for x in range(dec+1):
         resto = dec%2 
         dec = dec//2
         bin = str(resto) + bin   
-print('O valor em binario é', bin)
+print('O valor em binario é', bin) 

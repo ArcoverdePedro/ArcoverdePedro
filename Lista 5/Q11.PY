@@ -7,7 +7,7 @@ else:
     maior = var2
     menor = var1
 for cont in range(100):
-    var3 = maior % menor
+    var3 = maior % menor 
     if var3 == 0:
         break
     maior = menor

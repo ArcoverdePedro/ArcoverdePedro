@@ -12,7 +12,7 @@ for cont in range(100):
         if MAR % cont == 0 or menor % cont == 0:
             if MAR % cont == 0: MAR //= cont
             elif menor % cont == 0: menor //= cont
-        else: cont +=1
+        else: cont +=1 
 multiplicação = 1
 for num in nums : multiplicação *= int(num)
 print(f'O maior divisor comum de {NUMB1} e {NUMB2} é {multiplicação}.')

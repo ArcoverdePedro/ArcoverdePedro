@@ -5,7 +5,7 @@ valor2 = 0
 aux2 = aux1
 if valor != 0:
     print(f'\nSua sequência para o valor {valor} é:')
-    for x in range(aux1,valor+1):
+    for x in range(aux1,valor+1): 
         resul = aux2 + valor2
         print(resul, end='-')
         aux1 +=1

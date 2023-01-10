@@ -5,4 +5,4 @@ for x in range((len(var) +1) * 2):
         print(var[:x])
     elif x > len (var):
         print(var[:inv])    
-        inv -= 1
+        inv -= 1 

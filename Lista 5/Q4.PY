@@ -5,7 +5,7 @@ fatorial = valor
 if valor !=0:
     for x in range(1,valor):
         valor -= 1
-        var = aux*valor
+        var = aux*valor 
         aux = var
     print (f'{fatorial}!= ',var)
 else:
