@@ -1,5 +1,5 @@
-var1 = int(input('Informe o Primeiro número: '))
-var2 = int(input('Informe o Segundo número: '))
+var1 = int(input('Primeiro numero: '))
+var2 = int(input('Segundo numero: '))
 if var1 > var2:
     maior = var1
     menor = var2 
@@ -12,4 +12,4 @@ for cont in range(100):
         break
     maior = menor
     menor = var3
-print(f'O Máximo Divisor Comum de {var1} e {var2} é {menor}\n')
+print(f'O Maior Divisor Comum de {var1} e {var2} é {menor}\n')

@@ -11,5 +11,5 @@ if valor != 0:
         aux1 +=1
         aux2 = valor2
         valor2 = resul
-    print(''); print('\nEsses são os valores da sequência!\n')
-else: print('\nO valor informado é igual a zero. Informe outro.\n')
+    print(''); print('\nEsses valores pertencem a sequência!\n')
+else: print('\nO valor informado é igual a zero.\n')

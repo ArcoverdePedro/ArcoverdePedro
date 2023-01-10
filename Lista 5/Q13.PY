@@ -1,7 +1,7 @@
 DEFAULT_PASSWORD = 'swordfish'
-password = input('informe a senha: ')
-for counter in range(1000000):
-    if password == DEFAULT_PASSWORD:
-        print('Senha correta! Bem vindo!:')
-        break
-    else: password = input('Senha incorreta. Tente novamente: ')
+psswrd = input(f"informe a senha")
+while psswrd != DEFAULT_PASSWORD:
+    print(f"{psswrd} não é a senha correta")
+    psswrd = input("informe a senha")
+if psswrd == DEFAULT_PASSWORD:
+    print(f"senha correta")

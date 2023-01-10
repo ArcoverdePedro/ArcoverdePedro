@@ -12,4 +12,5 @@ tmph = (aux * 50)/3600
 tmpm = (aux * 50)/60
 tmps = aux*50
 tmpt = (aux*50)//3600,((aux*50)%3600)//60,(aux*50)%60
+print(type (tmpt))
 print(f"massa inicial: {pi} Massa final: {pf} Tempo em horas: {tmph} Tempo em Minutos: {tmpm} Tempo em Segundos {tmps} e o tempo em hora,minuto e segundo {tmpt}")
