@@ -1,14 +1,13 @@
-# Olá! Eu sou o ArcoverdePedro 👋
+# Olá! Eu sou o ArcoverdePedro 
 
-### 🚀 Full Stack | Automação | DevOps
+###  Full Stack | Automação | DevOps
 
 Bem-vindo ao meu espaço no GitHub!
 
 ---
 
-## 💻 Minhas Habilidades
+## Minhas Habilidades:
 
-Aqui estão as principais ferramentas e linguagens que utilizo no meu dia a dia.
 | Categoria | Tecnologias Chave |
 | :--- | :--- |
 | **Backend & Lógica** | ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge) ![Flask Badge](https://img.shields.io/badge/Flask-3BABC3?logo=flask&logoColor=fff&style=for-the-badge) ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge) ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge) |
@@ -20,9 +19,7 @@ Aqui estão as principais ferramentas e linguagens que utilizo no meu dia a dia.
 
 ---
 
-## 📬 Conecte-se Comigo!
-
-Estou sempre aberto a novos projetos e conexões. Sinta-se à vontade para entrar em contato:
+## Conecte-se Comigo!
 
 * **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/pedro-arcoverde-938b83236/)]
 * **Email:** [pedroarcoverde2@gmail.com]
