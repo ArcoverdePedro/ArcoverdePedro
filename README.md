@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou o ArcoverdePedro 👋
 
-<!--
-**ArcoverdePedro/ArcoverdePedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack | Automação | DevOps
 
-Here are some ideas to get you started:
+Bem-vindo ao meu espaço no GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Minhas Habilidades
+
+Aqui estão as principais ferramentas e linguagens que utilizo no meu dia a dia.
+| Categoria | Tecnologias Chave |
+| :--- | :--- |
+| **Backend & Lógica** | **Python** (Django, Flask, Pandas, etc.), |
+| **Frontend & Web** | **JavaScript** (React, Bun, Node.js, JS Puro), HTML, CSS |
+| **Containers & DevOps** | **Docker**, Docker Compose, Kubernetes (se usar), CI/CD ([Ex: GitHub Actions, Jenkins]) |
+| **Automação & Shell**| **Shell Script** (Bash), [Ex: Ansible, Terraform] |
+| **Banco de Dados** | [Ex: PostgreSQL, MySQL, Redis] |
+
+---
+
+## 📬 Conecte-se Comigo!
+
+Estou sempre aberto a novos projetos e conexões. Sinta-se à vontade para entrar em contato:
+
+* **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/pedro-arcoverde-938b83236/)]
+* **Email:** [pedroarcoverde2@gmail.com]
