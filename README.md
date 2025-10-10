@@ -19,7 +19,7 @@ Bem-vindo ao meu espaço no GitHub!
 
 ---
 
-## Conecte-se Comigo!
+## Para me Contactar
 
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/pedro-arcoverde-938b83236/)
 * **Email:** pedroarcoverde2@gmail.com
