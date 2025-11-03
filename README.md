@@ -23,3 +23,5 @@ Bem-vindo ao meu espaço no GitHub!
 
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/pedro-arcoverde-938b83236/)
 * **Email:** pedroarcoverde2@gmail.com
+
+* ![Debian Badge](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=plastic)
