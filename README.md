@@ -2,7 +2,7 @@
 
 ###  Full Stack | Automação | DevOps
 
-Bem-vindo ao meu espaço no GitHub!
+Bem-vindo ao meu GitHub!
 
 ---
 
